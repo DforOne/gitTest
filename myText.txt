@@ -3,3 +3,5 @@ this is a very cool thing
 so many people agree that
 add more line1
 版本回退1.0
+
+today is 星期五！
